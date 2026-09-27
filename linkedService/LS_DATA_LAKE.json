@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://saeccomerceraw.dfs.core.windows.net/"
+			"url": "https://saeccomerce.dfs.core.windows.net/"
 		}
 	},
 	"type": "Microsoft.DataFactory/factories/linkedservices"
