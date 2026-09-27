@@ -1,0 +1,15 @@
+{
+	"name": "df-estudos-gustavo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a3439b6-382d-4a8c-922f-799744caba17",
+		"tenantId": "4209a942-eeff-4899-bf4f-4b86c0e958e9"
+	}
+}
