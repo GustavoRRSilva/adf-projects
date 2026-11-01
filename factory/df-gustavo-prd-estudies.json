@@ -1,0 +1,15 @@
+{
+	"name": "df-gustavo-prd-estudies",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2a6646c-2cde-4874-b93f-26516dfe9fd8",
+		"tenantId": "4209a942-eeff-4899-bf4f-4b86c0e958e9"
+	}
+}
